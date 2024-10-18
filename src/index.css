@@ -8,4 +8,9 @@
   box-sizing: border-box;
   font-family: 'Helvetica Now Display', Helvetica, Arial, sans-serif;
   color:#fff;
+  scrollbar-width: none;
+}
+
+::-webkit-scrollbar{
+  display: none;
 }
